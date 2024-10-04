@@ -911,7 +911,7 @@ venetian ; vec ; modern
 
 wikimedia ; af ; moderate ;
 wikimedia ; ast ; moderate ;
-wikimedia ; az_Arab ; moderate ;
+wikimedia ; azb ; moderate ;
 wikimedia ; bgn ; moderate ;
 wikimedia ; bs ; moderate ;
 wikimedia ; bs_Cyrl ; moderate ;

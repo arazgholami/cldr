@@ -1342,8 +1342,8 @@ public class VettingViewer<T> {
 
     /**
      * Collapse the names {en_Cyrl, en_Cyrl_US} => en_Cyrl(_US) {en_GB, en_Latn_GB} => en(_Latn)_GB
-     * {en, en_US, en_Latn, en_Latn_US} => en(_Latn)(_US) {az_IR, az_Arab, az_Arab_IR} => az_IR,
-     * az_Arab(_IR)
+     * {en, en_US, en_Latn, en_Latn_US} => en(_Latn)(_US) {az_IR, azb, azb_IR} => az_IR,
+     * azb(_IR)
      */
     private static String gatherCodes(Set<String> contents) {
         Set<Set<String>> source = new LinkedHashSet<>();

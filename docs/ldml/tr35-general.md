@@ -1746,8 +1746,8 @@ For example, see the bolded items below in the fallback chain for **az_IR**.
 
 |     | Locale ID      | Comments                       |
 | --- | -------------- | ------------------------------ |
-|  1  | **az_Arab_IR** | The maximized locale for az_IR |
-|  2  | az_Arab        | Normal fallback                |
+|  1  | **azb_IR** | The maximized locale for az_IR |
+|  2  | azb        | Normal fallback                |
 |  3  | **az_IR**      | Inserted country locale        |
 |  4  | az             | Normal fallback                |
 |  5  | **Arab**       | Maximized script               |
