@@ -1080,14 +1080,25 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 			<subdivision type="gbwls">Uels</subdivision>
 		</subdivisions>
 		<keys>
-			<key type="calendar">Təqvim</key>
-			<key type="cf">Valyuta Formatı</key>
-			<key type="collation">Sıralama</key>
-			<key type="currency">Valyuta</key>
-			<key type="hc">Saat Sikli (12 / 24)</key>
-			<key type="lb">Sətirdən sətrə keçirmə üslubu</key>
-			<key type="ms">Ölçü Sistemi</key>
-			<key type="numbers">Rəqəmlər</key>
+			<key type="calendar">تقویم</key>
+			<key type="cf">پول بیریمی بیچیمی</key>
+			<key type="colAlternate">سیمگه‌لری سؽرالامایی یوخ سایما</key>
+			<key type="colBackwards">ترسه اکسان سؽرالاما</key>
+			<key type="colCaseFirst">بؤیوک/کیچیک حرف سؽرالاما</key>
+			<key type="colCaseLevel">Büyük/Küçük Harfe Duyarlı Sıralama</key>
+			<key type="colCaseLevel">بؤیوک/کیچیک حرفه گؤره سؽرالاما</key>
+			<key type="collation">سؽرالاما دۆزلی</key>
+			<key type="colNormalization">نرماللاشتیریلمیش سؽرالاما</key>
+			<key type="colNumeric">سایؽسال سؽرالاما</key>
+			<key type="colStrength">سؽرالاما گۆجو</key>
+			<key type="currency">پول بیریمی</key>
+			<key type="hc">ساعات سیستمی (۱۲ - ۲۴)</key>
+			<key type="lb">سطیر سونو استیلی</key>
+			<key type="ms">اؤلچو سیستمی</key>
+			<key type="numbers">رقملر</key>
+			<key type="timezone">ساعات دیلیمی</key>
+			<key type="va">یئرئل واریانت</key>
+			<key type="x">اؤزل قوللانیم</key>
 		</keys>
 		<types>
 			<type key="calendar" type="buddhist">Buddist təqvimi</type>
