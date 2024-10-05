@@ -594,139 +594,172 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 			<language type="zza">زازاجا</language>
 		</languages>
 		<scripts>
-			<script type="Adlm">adlam</script>
-			<script type="Arab">ərəb</script>
-			<script type="Aran">aran</script>
-			<script type="Armi" draft="contributed">armi</script>
-			<script type="Armn">erməni</script>
-			<script type="Avst" draft="contributed">avestan</script>
-			<script type="Bali" draft="contributed">bali</script>
-			<script type="Batk" draft="contributed">batak</script>
-			<script type="Beng">benqal</script>
-			<script type="Blis" draft="contributed">blissymbols</script>
-			<script type="Bopo">bopomofo</script>
-			<script type="Brah" draft="contributed">brahmi</script>
-			<script type="Brai">brayl</script>
-			<script type="Bugi" draft="contributed">buqin</script>
-			<script type="Buhd" draft="contributed">buhid</script>
-			<script type="Cakm">çakma</script>
-			<script type="Cans">birləşmiş kanada yerli yazısı</script>
-			<script type="Cari" draft="contributed">kariyan</script>
-			<script type="Cham" draft="contributed">çam</script>
-			<script type="Cher">çiroki</script>
-			<script type="Cirt" draft="contributed">sirt</script>
-			<script type="Copt" draft="contributed">koptik</script>
-			<script type="Cprt" draft="contributed">kipr</script>
-			<script type="Cyrl">kiril</script>
-			<script type="Cyrs" draft="contributed">qədimi kilsa kirili</script>
-			<script type="Deva">devanaqari</script>
-			<script type="Dsrt" draft="contributed">deseret</script>
-			<script type="Egyd" draft="contributed">misir demotik</script>
-			<script type="Egyh" draft="contributed">misir hiyeratik</script>
-			<script type="Egyp" draft="contributed">misir hiyeroqlif</script>
-			<script type="Ethi">efiop</script>
-			<script type="Geok" draft="contributed">gürcü xutsuri</script>
-			<script type="Geor">gürcü</script>
-			<script type="Glag" draft="contributed">qlaqolitik</script>
-			<script type="Goth" draft="contributed">qotik</script>
-			<script type="Grek">yunan</script>
-			<script type="Gujr">qucarat</script>
-			<script type="Guru">qurmuxi</script>
-			<script type="Hanb">hanb</script>
-			<script type="Hang">hanqıl</script>
-			<script type="Hani">han</script>
-			<script type="Hano" draft="contributed">hanunu</script>
-			<script type="Hans">sadələşmiş</script>
-			<script type="Hans" alt="stand-alone">Sadələşmiş Han</script>
-			<script type="Hant">ənənəvi</script>
-			<script type="Hant" alt="stand-alone">Ənənəvi Han</script>
-			<script type="Hebr">ibrani</script>
-			<script type="Hira">iraqana</script>
-			<script type="Hmng" draft="contributed">pahav monq</script>
-			<script type="Hrkt">hecalı yapon əlifbası</script>
-			<script type="Hung" draft="contributed">qədimi macar</script>
-			<script type="Inds" draft="contributed">hindistan</script>
-			<script type="Ital" draft="contributed">qədimi italyalı</script>
-			<script type="Jamo">jamo</script>
-			<script type="Java" draft="contributed">cava</script>
-			<script type="Jpan">yapon</script>
-			<script type="Kali" draft="contributed">kayax li</script>
-			<script type="Kana">katakana</script>
-			<script type="Khar" draft="contributed">xaroşti</script>
-			<script type="Khmr">kxmer</script>
-			<script type="Knda">kannada</script>
-			<script type="Kore">koreya</script>
-			<script type="Kthi" draft="contributed">kti</script>
-			<script type="Lana" draft="contributed">lanna</script>
-			<script type="Laoo">lao</script>
-			<script type="Latf" draft="contributed">fraktur latını</script>
-			<script type="Latg" draft="contributed">gael latını</script>
-			<script type="Latn">latın</script>
-			<script type="Lepc" draft="contributed">lepçə</script>
-			<script type="Limb" draft="contributed">limbu</script>
-			<script type="Lyci" draft="contributed">lusian</script>
-			<script type="Lydi" draft="contributed">ludian</script>
-			<script type="Mand" draft="contributed">mandayen</script>
-			<script type="Mani" draft="contributed">maniçayen</script>
-			<script type="Maya" draft="contributed">maya hiyeroqlifi</script>
-			<script type="Mero" draft="contributed">meroytik</script>
-			<script type="Mlym">malayalam</script>
-			<script type="Mong">monqol</script>
-			<script type="Moon" draft="contributed">mun</script>
-			<script type="Mtei">meytey mayek</script>
-			<script type="Mymr">myanmar</script>
-			<script type="Nkoo">nko</script>
-			<script type="Ogam" draft="contributed">oğam</script>
-			<script type="Olck">ol çiki</script>
-			<script type="Orkh" draft="contributed">orxon</script>
-			<script type="Orya">oriya</script>
-			<script type="Osma" draft="contributed">osmanya</script>
-			<script type="Perm" draft="contributed">qədimi permik</script>
-			<script type="Phag" draft="contributed">faqs-pa</script>
-			<script type="Phli" draft="contributed">fli</script>
-			<script type="Phlp" draft="contributed">flp</script>
-			<script type="Phlv" draft="contributed">kitab paxlavi</script>
-			<script type="Phnx" draft="contributed">foenik</script>
-			<script type="Plrd" draft="contributed">polard fonetik</script>
-			<script type="Prti" draft="contributed">prti</script>
-			<script type="Rjng" draft="contributed">recəng</script>
-			<script type="Rohg">hanifi</script>
-			<script type="Roro" draft="contributed">ronqoronqo</script>
-			<script type="Runr" draft="contributed">runik</script>
-			<script type="Samr" draft="contributed">samaritan</script>
-			<script type="Sara" draft="contributed">sarati</script>
-			<script type="Saur" draft="contributed">saurastra</script>
-			<script type="Sgnw" draft="contributed">işarət yazısı</script>
-			<script type="Shaw" draft="contributed">şavyan</script>
-			<script type="Sinh">sinhal</script>
-			<script type="Sund">sundan</script>
-			<script type="Sylo" draft="contributed">siloti nəqri</script>
-			<script type="Syrc">siryak</script>
-			<script type="Syre" draft="contributed">estrangela süryanice</script>
-			<script type="Tagb" draft="contributed">taqbanva</script>
-			<script type="Tale" draft="contributed">tay le</script>
-			<script type="Talu" draft="contributed">təzə tay lu</script>
-			<script type="Taml">tamil</script>
-			<script type="Tavt" draft="contributed">tavt</script>
-			<script type="Telu">teluqu</script>
-			<script type="Teng" draft="contributed">tengvar</script>
-			<script type="Tfng">tifinaq</script>
-			<script type="Tglg" draft="contributed">taqaloq</script>
-			<script type="Thaa">thana</script>
-			<script type="Thai">tay</script>
-			<script type="Tibt">tibet</script>
-			<script type="Ugar" draft="contributed">uqarit</script>
-			<script type="Vaii">vay</script>
-			<script type="Visp" draft="contributed">danışma səsləri</script>
-			<script type="Xpeo" draft="contributed">qədimi fars</script>
-			<script type="Xsux" draft="contributed">sumer-akadyan kuneyform</script>
-			<script type="Yiii">yi</script>
-			<script type="Zmth">riyazi notasiya</script>
-			<script type="Zsye">emoji</script>
-			<script type="Zsym">simvollar</script>
-			<script type="Zxxx">yazısız</script>
-			<script type="Zyyy">ümumi yazı</script>
-			<script type="Zzzz">tanınmayan yazı</script>
+			<script type="Adlm">آدلام</script>
+			<script type="Afak">آفاکا</script>
+			<script type="Aghb">قافقاز آلبانیاسی</script>
+			<script type="Arab">عرب</script>
+			<script type="Arab" alt="variant">فارس-عرب</script>
+			<script type="Aran">نستعلیق</script>
+			<script type="Armi">آرامی</script>
+			<script type="Armn">ارمنی</script>
+			<script type="Avst">اوئستا</script>
+			<script type="Bali">بالی</script>
+			<script type="Bamu">بامو</script>
+			<script type="Bass">باسسا واه</script>
+			<script type="Batk">باتاک</script>
+			<script type="Beng">بنقال</script>
+			<script type="Blis">بلیس سیمگه‌لری</script>
+			<script type="Bopo">بوپوموفو</script>
+			<script type="Brah">براهمی</script>
+			<script type="Brai">بریل</script>
+			<script type="Bugi">بوگیس</script>
+			<script type="Buhd">بوهید</script>
+			<script type="Cakm">چاکما</script>
+			<script type="Cans">کانادا یئرلی‌لری سیمگه‌لری</script>
+			<script type="Cari">کاریا</script>
+			<script type="Cham">چام</script>
+			<script type="Cher">چئروکی</script>
+			<script type="Cirt">کیرت</script>
+			<script type="Copt">قبطی</script>
+			<script type="Cprt">قیبریس</script>
+			<script type="Cyrl">کیریل</script>
+			<script type="Cyrs">اسکی کلیسا اسلاو کیریلی</script>
+			<script type="Deva">دئواناقاری</script>
+			<script type="Dsrt">دئسئرت</script>
+			<script type="Dupl">دوپلویی سته‌نوگرافی</script>
+			<script type="Egyd">دئموتیک مصر</script>
+			<script type="Egyh">هیئرآتیک مصر</script>
+			<script type="Egyp">هیروگلیف مصر</script>
+			<script type="Elba">ائلباسان</script>
+			<script type="Ethi">اتیوپی</script>
+			<script type="Geok">خوتسوری گۆرجو</script>
+			<script type="Geor">گۆرجو</script>
+			<script type="Glag">قلاقولیت</script>
+			<script type="Goth">قوتیک</script>
+			<script type="Gran">قرانتا</script>
+			<script type="Grek">یونان</script>
+			<script type="Gujr">گۆجئرات</script>
+			<script type="Guru">قورومخی</script>
+			<script type="Hanb">هان - بوپوموفو</script>
+			<script type="Hang">هانقؽل</script>
+			<script type="Hani">هان</script>
+			<script type="Hano">هانونو</script>
+			<script type="Hans">ساده‌لشتیریلمیش</script>
+			<script type="Hans" alt="stand-alone">ساده‌لشتیریلمیش هان</script>
+			<script type="Hant">گلنه‌کسل</script>
+			<script type="Hant" alt="stand-alone">گله‌نکسل هان</script>
+			<script type="Hebr">عبری</script>
+			<script type="Hira">هیراقانا</script>
+			<script type="Hluw">آنادولو هیروگلیفلری</script>
+			<script type="Hrkt">کانا</script>
+			<script type="Hung">اسکی ماجار</script>
+			<script type="Inds">ایندوس</script>
+			<script type="Ital">اسکی ایتالیاجا</script>
+			<script type="Jamo">جامو</script>
+			<script type="Java">جاوا</script>
+			<script type="Jpan">ژاپون</script>
+			<script type="Kali">کایاه لی</script>
+			<script type="Kana">کاتاکانا</script>
+			<script type="Khar">خاروشتی</script>
+			<script type="Khmr">خمر</script>
+			<script type="Khoj">خوجکی</script>
+			<script type="Knda">کاناری</script>
+			<script type="Kore">کوره‌جه</script>
+			<script type="Kpel">کئیپئل</script>
+			<script type="Kthi">کئیتی</script>
+			<script type="Lana">لانا</script>
+			<script type="Laoo">لائوس</script>
+			<script type="Latf">فراکتور لاتین</script>
+			<script type="Latg">گئیل لاتین</script>
+			<script type="Latn">لاتین</script>
+			<script type="Lepc">لئپچا</script>
+			<script type="Limb">لیمبو</script>
+			<script type="Lina">خطی آ</script>
+			<script type="Linb">خطی ب</script>
+			<script type="Lisu" draft="contributed">لیسو</script>
+			<script type="Loma">لوْما</script>
+			<script type="Lyci">لیکیا</script>
+			<script type="Lydi">لیدی</script>
+			<script type="Mahj">ماهاجانی</script>
+			<script type="Mand">ماند</script>
+			<script type="Mani" draft="contributed">مانی</script>
+			<script type="Maya">مایا هیروگلیفلری</script>
+			<script type="Mend">منده</script>
+			<script type="Merc">مئرویتیک ال یازیسی</script>
+			<script type="Mero">مئرویتیک</script>
+			<script type="Mlym">مالایالام</script>
+			<script type="Modi">موْدی</script>
+			<script type="Mong">موغول</script>
+			<script type="Moon">مۇن</script>
+			<script type="Mroo">مرۇ</script>
+			<script type="Mtei">مئیتئی مایئک</script>
+			<script type="Mymr">میانمار</script>
+			<script type="Narb">اسکی قوزئی عرب</script>
+			<script type="Nbat">نبطی</script>
+			<script type="Nkgb">ناکسی گئبا</script>
+			<script type="Nkoo">ن‌کو</script>
+			<script type="Nshu">نۆشو</script>
+			<script type="Ogam">اوقام</script>
+			<script type="Olck">اوْل چیکی</script>
+			<script type="Orkh">اورخون</script>
+			<script type="Orya">اوریا</script>
+			<script type="Osma">سومالی/script>
+			<script type="Palm">پالمیرا</script>
+			<script type="Pauc">پاۇ جین هاۇ</script>
+			<script type="Perm">اسکی پئرمیک</script>
+			<script type="Phli">کتیبه پهلویسی</script>
+			<script type="Phlp">زبور پهلویسی</script>
+			<script type="Phlv">کیتاب پهلویسی</script>
+			<script type="Phnx">فنیقی</script>
+			<script type="Plrd">پولارد فونئتیک</script>
+			<script type="Prti">پارت</script>
+			<script type="Rjng">رئجانگ</script>
+			<script type="Rohg">حنیفی</script>
+			<script type="Roro">روْنقورونقو</script>
+			<script type="Runr">رونیک</script>
+			<script type="Samr">سامری</script>
+			<script type="Sara">ساراتی</script>
+			<script type="Sarb">اسکی گۆنئی عرب</script>
+			<script type="Saur">ساۇوراشترا</script>
+			<script type="Sgnw">ایشاره دیلی</script>
+			<script type="Shaw">شاوی</script>
+			<script type="Shrd">شارادا</script>
+			<script type="Sidd">سیدهام</script>
+			<script type="Sind">خۇدابادی</script>
+			<script type="Sinh">سئیلان</script>
+			<script type="Sora">سوْرا سوْمپنگ</script>
+			<script type="Sund">سۇندا</script>
+			<script type="Sylo">سیلوتی ناقاری</script>
+			<script type="Syrc">سۆریانی</script>
+			<script type="Syre">استرانگئلا سۆریانی</script>
+			<script type="Syrj">باتی سۆریانی</script>
+			<script type="Syrn">دوْغو سۆریانی</script>
+			<script type="Tagb">تاقبانوا</script>
+			<script type="Takr">تاکری</script>
+			<script type="Tale">تای‌له</script>
+			<script type="Talu">یئنی تای لوئه</script>
+			<script type="Taml">تامیل</script>
+			<script type="Tang">تانقوت</script>
+			<script type="Tavt">تای ویئت</script>
+			<script type="Telu">تئلوقو</script>
+			<script type="Teng">تئنگوار</script>
+			<script type="Tfng">تیفیناق</script>
+			<script type="Thai">تای</script>
+			<script type="Tibt">تبت</script>
+			<script type="Tirh">تیرهوتا</script>
+			<script type="Ugar">اوقاریت چیوی یازیسی</script>
+			<script type="Vaii">وائی</script>
+			<script type="Visp">دانیشما سسلری</script>
+			<script type="Xpeo">اسکی فارسجا</script>
+			<script type="Xsux">سومئر-اکد چیوی یازیسی</script>
+			<script type="Yiii">یی</script>
+			<script type="Zinh">قالیتسال</script>
+			<script type="Zmth">ماتئماتیکسئل گؤستریم</script>
+			<script type="Zsye">اموجی</script>
+			<script type="Zsym">سیمگه</script>
+			<script type="Zxxx">یازیلی اولمایان</script>
+			<script type="Zyyy">اورتاق</script>
+			<script type="Zzzz">بیلینمه‌ین الفبا</script>
 		</scripts>
 		<territories>
 			<territory type="001">Dünya</territory>
