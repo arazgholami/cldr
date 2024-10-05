@@ -1085,7 +1085,6 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 			<key type="colAlternate">سیمگه‌لری سؽرالامایی یوخ سایما</key>
 			<key type="colBackwards">ترسه اکسان سؽرالاما</key>
 			<key type="colCaseFirst">بؤیوک/کیچیک حرف سؽرالاما</key>
-			<key type="colCaseLevel">Büyük/Küçük Harfe Duyarlı Sıralama</key>
 			<key type="colCaseLevel">بؤیوک/کیچیک حرفه گؤره سؽرالاما</key>
 			<key type="collation">سؽرالاما دۆزلی</key>
 			<key type="colNormalization">نرماللاشتیریلمیش سؽرالاما</key>
