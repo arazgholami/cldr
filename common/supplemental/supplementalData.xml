@@ -3348,7 +3348,7 @@ XXX Code for transations where no currency is involved
 		</territory>
 		<territory type="IR" gdp="1440000000000" literacyPercent="85" population="88386900">	<!--Iran-->
 			<languagePopulation type="fa" populationPercent="75" officialStatus="official"/>	<!--Persian-->
-			<languagePopulation type="az_Arab" populationPercent="24"/>	<!--Azerbaijani (Arabic)-->
+			<languagePopulation type="azb" populationPercent="24"/>	<!--Azerbaijani (Arabic)-->
 			<languagePopulation type="mzn" populationPercent="5"/>	<!--Mazanderani-->
 			<languagePopulation type="glk" populationPercent="4.6"/>	<!--Gilaki-->
 			<languagePopulation type="ckb" populationPercent="3.9" references="R1212"/>	<!--Central Kurdish-->
@@ -4229,7 +4229,7 @@ XXX Code for transations where no currency is involved
 			<languagePopulation type="kaa" populationPercent="0.1" references="R1199"/>	<!--Kara-Kalpak-->
 			<languagePopulation type="kbd" populationPercent="0.77"/>	<!--Kabardian-->
 			<languagePopulation type="az" populationPercent="0.74"/>	<!--Azerbaijani-->
-			<languagePopulation type="az_Arab" populationPercent="0.65"/>	<!--Azerbaijani (Arabic)-->
+			<languagePopulation type="azb" populationPercent="0.65"/>	<!--Azerbaijani (Arabic)-->
 			<languagePopulation type="ar" populationPercent="0.56"/>	<!--Arabic-->
 			<languagePopulation type="bgx" populationPercent="0.46"/>	<!--Balkan Gagauz Turkish-->
 			<languagePopulation type="bg" populationPercent="0.42"/>	<!--Bulgarian-->
