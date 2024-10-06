@@ -635,7 +635,7 @@ Indonesia	ID	"262,787,403"	93%	"3,250,000,000,000"		Tolaki	lbw	"339,000"
 Indonesia	ID	"262,787,403"	93%	"3,250,000,000,000"		Uab Meto	aoz	"706,000"
 Iran	IR	"83,024,745"	85%	"1,640,000,000,000"		Arabic	ar	"1,660,000"
 Iran	IR	"83,024,745"	85%	"1,640,000,000,000"		Armenian	hy	"201,000"
-Iran	IR	"83,024,745"	85%	"1,640,000,000,000"		Azerbaijani (Arabic)	az_Arab	24%
+Iran	IR	"83,024,745"	85%	"1,640,000,000,000"		Azerbaijani (Arabic)	azb	24%
 Iran	IR	"83,024,745"	85%	"1,640,000,000,000"		Bakhtiari	bqi	"1,180,000"
 Iran	IR	"83,024,745"	85%	"1,640,000,000,000"		Baluchi	bal	"1,660,000"
 Iran	IR	"83,024,745"	85%	"1,640,000,000,000"		Central Kurdish	ckb	3.9%			www.amar.org.ir
@@ -656,7 +656,7 @@ Iran	IR	"83,024,745"	85%	"1,640,000,000,000"		Turkmen	tk	"2,350,000"
 Iran	IR	"83,024,745"	85%	"1,640,000,000,000"		Western Balochi	bgn	"464,000"	5%		http://www.ethnologue.com/language/bgn low literacy
 Iran	IR	"83,024,745"	85%	"1,640,000,000,000"		Zoroastrian Dari	gbz	"8,000"
 Iraq	IQ	"40,194,216"	79%	"649,300,000,000"	official	Arabic	ar	68%
-Iraq	IQ	"40,194,216"	79%	"649,300,000,000"	official_regional	Azerbaijani (Arabic)	az_Arab	"740,000"
+Iraq	IQ	"40,194,216"	79%	"649,300,000,000"	official_regional	Azerbaijani (Arabic)	azb	"740,000"
 Iraq	IQ	"40,194,216"	79%	"649,300,000,000"	official_regional	Central Kurdish	ckb	20%			"https://www.cia.gov/library/publications/the-world-factbook/geos/iz.html Lang pop est, CIA factbook 15-20% country pop"
 Iraq	IQ	"40,194,216"	79%	"649,300,000,000"		English	en	35%
 Iraq	IQ	"40,194,216"	79%	"649,300,000,000"		Northern Luri	lrc	"247,000"			http://www.ethnologue.com/language/lrc
@@ -1349,7 +1349,7 @@ Turkey	TR	"81,257,239"	94%	"2,186,000,000,000"		Albanian	sq	"16,900"
 Turkey	TR	"81,257,239"	94%	"2,186,000,000,000"		Arabic	ar	"453,000"
 Turkey	TR	"81,257,239"	94%	"2,186,000,000,000"		Armenian	hy	"45,300"
 Turkey	TR	"81,257,239"	94%	"2,186,000,000,000"		Azerbaijani	az	"600,000"
-Turkey	TR	"81,257,239"	94%	"2,186,000,000,000"		Azerbaijani (Arabic)	az_Arab	"528,000"
+Turkey	TR	"81,257,239"	94%	"2,186,000,000,000"		Azerbaijani (Arabic)	azb	"528,000"
 Turkey	TR	"81,257,239"	94%	"2,186,000,000,000"		Balkan Gagauz Turkish	bgx	"370,000"
 Turkey	TR	"81,257,239"	94%	"2,186,000,000,000"		Bulgarian	bg	"341,000"
 Turkey	TR	"81,257,239"	94%	"2,186,000,000,000"		English	en	17%

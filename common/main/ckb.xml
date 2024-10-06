@@ -43,7 +43,7 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 			<language type="ay">ئایمارا</language>
 			<language type="az">ئازەربایجانی</language>
 			<language type="az" alt="short">↑↑↑</language>
-			<language type="az_Arab">ئازەربایجانی باشووری</language>
+			<language type="azb">ئازەربایجانی باشووری</language>
 			<language type="ba">باشکیەر</language>
 			<language type="ban">بالی</language>
 			<language type="bas">باسا</language>

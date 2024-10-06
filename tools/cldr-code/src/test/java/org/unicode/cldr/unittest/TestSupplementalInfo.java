@@ -833,7 +833,7 @@ public class TestSupplementalInfo extends TestFmwkPlus {
                         }
                         break;
                     case 3: // ok if different script in different country, eg
-                        // {az_IR, az_Arab, az_Arab_IR}
+                        // {az_IR, azb, azb_IR}
                         if (noScript.equals(ss.get(0)) && noRegion.equals(ss.get(1))) {
                             continue main;
                         }

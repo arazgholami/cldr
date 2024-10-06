@@ -57,10 +57,10 @@ not be patched by hand, as any changes made in that fashion may be lost.
 		<likelySubtag from="awa" to="awa_Deva_IN"/>		<!--Awadhi‧?‧?	➡ Awadhi‧Devanagari‧India-->
 		<likelySubtag from="ay" to="ay_Latn_BO"/>		<!--Aymara‧?‧?	➡ Aymara‧Latin‧Bolivia-->
 		<likelySubtag from="az" to="az_Latn_AZ"/>		<!--Azerbaijani‧?‧?	➡ Azerbaijani‧Latin‧Azerbaijan-->
-		<likelySubtag from="az_IQ" to="az_Arab_IQ"/>		<!--Azerbaijani‧?‧Iraq	➡ Azerbaijani‧Arabic‧Iraq-->
-		<likelySubtag from="az_IR" to="az_Arab_IR"/>		<!--Azerbaijani‧?‧Iran	➡ Azerbaijani‧Arabic‧Iran-->
+		<likelySubtag from="az_IQ" to="azb_IQ"/>		<!--Azerbaijani‧?‧Iraq	➡ Azerbaijani‧Arabic‧Iraq-->
+		<likelySubtag from="az_IR" to="azb_IR"/>		<!--Azerbaijani‧?‧Iran	➡ Azerbaijani‧Arabic‧Iran-->
 		<likelySubtag from="az_RU" to="az_Cyrl_RU"/>		<!--Azerbaijani‧?‧Russia	➡ Azerbaijani‧Cyrillic‧Russia-->
-		<likelySubtag from="az_Arab" to="az_Arab_IR"/>		<!--Azerbaijani‧Arabic‧?	➡ Azerbaijani‧Arabic‧Iran-->
+		<likelySubtag from="azb" to="azb_IR"/>		<!--Azerbaijani‧Arabic‧?	➡ Azerbaijani‧Arabic‧Iran-->
 		<likelySubtag from="ba" to="ba_Cyrl_RU"/>		<!--Bashkir‧?‧?	➡ Bashkir‧Cyrillic‧Russia-->
 		<likelySubtag from="bal" to="bal_Arab_PK"/>		<!--Baluchi‧?‧?	➡ Baluchi‧Arabic‧Pakistan-->
 		<likelySubtag from="ban" to="ban_Latn_ID"/>		<!--Balinese‧?‧?	➡ Balinese‧Latin‧Indonesia-->

@@ -65,7 +65,7 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 			<language type="ay">↑↑↑</language>
 			<language type="az">阿塞拜疆文</language>
 			<language type="az" alt="short">↑↑↑</language>
-			<language type="az_Arab">南阿塞拜疆文</language>
+			<language type="azb">南阿塞拜疆文</language>
 			<language type="ba">巴什基爾文</language>
 			<language type="bal">↑↑↑</language>
 			<language type="ban">↑↑↑</language>
